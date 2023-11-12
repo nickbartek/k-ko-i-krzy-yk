@@ -94,12 +94,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
     resetGame();
 });
-Ten projekt używa HTML do struktury strony, CSS do stylizacji planszy, a JavaScript do logiki gry. Po uruchomieniu pliku index.html w przeglądarce, powinieneś zobaczyć prostą grę w kółko i krzyżyk. Gracze mogą kliknąć na komórki planszy, aby postawić swój symbol, a gra sprawdza, czy jest zwycięzca lub remis.
-
-
-
-
-Is this conversation helpful so far?
 
 
 
